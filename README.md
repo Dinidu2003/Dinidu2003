@@ -106,7 +106,7 @@ const dinidu = {
 
 ### 📊 GitHub Activity
 
-**50+ Projects Completed** • **3+ Years Experience** • **30+ Happy Clients**
+**20+ Projects Completed** • **3+ Years Experience** • **10+ Happy Clients**
 
 </div>
 
