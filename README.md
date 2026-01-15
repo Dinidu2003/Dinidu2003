@@ -23,7 +23,7 @@
 
 </div>
 
-```typescript
+typescript
 const dinidu = {
     role: "Full Stack & Mobile App Developer",
     location: "Sri Lanka 🇱🇰",
@@ -44,7 +44,7 @@ const dinidu = {
     
     funFact: "I debug code with coffee ☕ and deploy with confidence 🚀"
 };
-```
+
 
 ---
 
