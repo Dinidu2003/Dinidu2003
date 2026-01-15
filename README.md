@@ -21,30 +21,14 @@
 
 ### 🚀 About Me
 
-</div>
+About Me (Description for Portfolio / Resume):
+I’m Dinidu Galahitiyawa, a Full Stack & Mobile App Developer from Sri Lanka 🇱🇰 with 3 years of experience building scalable web and mobile applications. I’m the founder of Xynex Labs, and over the years, I’ve successfully completed 50+ projects for 30+ happy clients.
 
-typescript
-const dinidu = {
-    role: "Full Stack & Mobile App Developer",
-    location: "Sri Lanka 🇱🇰",
-    company: "Xynex Labs (Founder)",
-    education: "BSc Computer Science @ University of Bedfordshire",
-    currentFocus: ["AI/ML Integration", "Scalable Systems", "Cloud Architecture"],
-    yearsOfExperience: 3,
-    projectsCompleted: 50,
-    happyClients: 30,
-    
-    workingOn: {
-        learning: ["Deep Learning", "System Design", "Advanced AI/ML"],
-        building: ["AI-Powered Applications", "Microservices Architecture"],
-        exploring: ["TensorFlow", "Cloud AI Solutions", "Real-time Systems"]
-    },
-    
-    askMeAbout: ["React", "Node.js", "React Native", "Flutter", "AI/ML", "Cloud"],
-    
-    funFact: "I debug code with coffee ☕ and deploy with confidence 🚀"
-};
+My expertise spans React, Next.js, Node.js, React Native, Flutter, and cloud technologies like AWS, Docker, and Vercel. Currently, I’m focused on integrating AI/ML into applications, designing scalable systems, and exploring cloud architecture.
 
+I love learning new technologies — from Deep Learning and TensorFlow to advanced system design — and building practical solutions like AI-powered applications and microservices architectures. Fun fact: I debug code with coffee ☕ and deploy with confidence 🚀.
+
+If you’re curious, you can always ask me about React, Node.js, mobile development, AI/ML, or cloud technologies!
 
 ---
 
