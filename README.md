@@ -149,23 +149,6 @@ gantt
 
 ---
 
-<div align="center">
-
-### 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/DiniduGalahitiyawa/DiniduGalahitiyawa/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
