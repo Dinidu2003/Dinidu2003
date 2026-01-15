@@ -21,14 +21,30 @@
 
 ### 🚀 About Me
 
-About Me (Description for Portfolio / Resume):
-I’m Dinidu Galahitiyawa, a Full Stack & Mobile App Developer from Sri Lanka 🇱🇰 with 3 years of experience building scalable web and mobile applications. I’m the founder of Xynex Labs, and over the years, I’ve successfully completed 50+ projects for 30+ happy clients.
+</div>
 
-My expertise spans React, Next.js, Node.js, React Native, Flutter, and cloud technologies like AWS, Docker, and Vercel. Currently, I’m focused on integrating AI/ML into applications, designing scalable systems, and exploring cloud architecture.
-
-I love learning new technologies — from Deep Learning and TensorFlow to advanced system design — and building practical solutions like AI-powered applications and microservices architectures. Fun fact: I debug code with coffee ☕ and deploy with confidence 🚀.
-
-If you’re curious, you can always ask me about React, Node.js, mobile development, AI/ML, or cloud technologies!
+```typescript
+const dinidu = {
+    role: "Full Stack & Mobile App Developer",
+    location: "Sri Lanka 🇱🇰",
+    company: "Xynex Labs (Founder)",
+    education: "BSc Computer Science @ University of Bedfordshire",
+    currentFocus: ["AI/ML Integration", "Scalable Systems", "Cloud Architecture"],
+    yearsOfExperience: 3,
+    projectsCompleted: 50,
+    happyClients: 30,
+    
+    workingOn: {
+        learning: ["Deep Learning", "System Design", "Advanced AI/ML"],
+        building: ["AI-Powered Applications", "Microservices Architecture"],
+        exploring: ["TensorFlow", "Cloud AI Solutions", "Real-time Systems"]
+    },
+    
+    askMeAbout: ["React", "Node.js", "React Native", "Flutter", "AI/ML", "Cloud"],
+    
+    funFact: "I debug code with coffee ☕ and deploy with confidence 🚀"
+};
+```
 
 ---
 
@@ -93,16 +109,22 @@ If you’re curious, you can always ask me about React, Node.js, mobile developm
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiniduGalahitiyawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiniduGalahitiyawa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  
+| <img src="https://github-readme-stats.vercel.app/api?username=DiniduGalahitiyawa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiniduGalahitiyawa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" /> |
+| ------------- | ------------- |
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiniduGalahitiyawa&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+  <img src="https://streak-stats.demolab.com?user=DiniduGalahitiyawa&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiniduGalahitiyawa&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiniduGalahitiyawa&theme=radical)
+
 </div>
 
 ---
