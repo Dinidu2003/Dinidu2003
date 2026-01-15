@@ -22,15 +22,9 @@
 ### 🚀 About Me
 
 </div>
+I’m Dinidu Galahitiyawa, a Full Stack & Mobile App Developer from Sri Lanka 🇱🇰 with 3 years of experience building scalable web and mobile applications. Founder of Xynex Labs, I’ve delivered 50+ projects for 30+ clients.
 
-I’m Dinidu Galahitiyawa, a Full Stack & Mobile App Developer from Sri Lanka 🇱🇰 with 3 years of experience building scalable web and mobile applications. I’m the founder of Xynex Labs, and over the years, I’ve successfully completed 50+ projects for 30+ happy clients.
-
-My expertise spans React, Next.js, Node.js, React Native, Flutter, and cloud technologies like AWS, Docker, and Vercel. Currently, I’m focused on integrating AI/ML into applications, designing scalable systems, and exploring cloud architecture.
-
-I love learning new technologies — from Deep Learning and TensorFlow to advanced system design — and building practical solutions like AI-powered applications and microservices architectures. Fun fact: I debug code with coffee ☕ and deploy with confidence 🚀.
-
-If you’re curious, you can always ask me about React, Node.js, mobile development, AI/ML, or cloud technologies!
-
+I specialize in React, Next.js, Node.js, React Native, Flutter, and cloud platforms like AWS, Docker, and Vercel, with a strong focus on AI/ML integration and scalable system design. I enjoy learning advanced technologies and building AI-powered, production-ready solutions 🚀.
 ---
 
 <div align="center">
